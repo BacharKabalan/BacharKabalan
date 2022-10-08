@@ -8,7 +8,7 @@ I have been learning concepts and techniques in data science, machine learning, 
 
 As I also love creating mind maps and diagrams, I will use this visualization technique to convey what I have been learning. 
 
-In my repos you will find: 
+To learn you need to be able to articulate what you heard/watched/read and then do it. This is why in my repos you will find: 
 - Theory and knowledge: all the theoretical concepts that I have learned on data science, machine learning, finance and algorithm trading. 
 
 - Techniques: a collection of projects that allow me to practice the concepts i learned. 
