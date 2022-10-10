@@ -16,7 +16,8 @@ To learn you need to be able to articulate what you heard/watched/read and then 
 My journey would have been impossible if it weren't for the incredible people that have shared their knowledge and made it available to everyone. This is my humble attempt to emulate their behaviour and help other travelers on these roads. I would specifically like to mention the following people: 
 
 - Andre Ng, with whom it all started
-- Lorenzo Greco: a friend who already did what i am aspiring to do and always encourages to me to keep going, providing me with books, tips, networking opportunities and moral support.  
+- Lorenzo Greco: a friend who already did what i am aspiring to do and always encourages to me to keep going, providing me with books, tips, networking opportunities and moral support. 
+- Dr. Yves J. Hilpisch for the on-hands training material (of which some is open access).  
 - Sentdex: https://www.youtube.com/c/sentdex
 - TradeOptionsWithMe: https://www.youtube.com/c/TradeOptionsWithMe
 - QuantConnect: https://www.quantconnect.com/tutorials/tutorial-series/introduction-to-financial-python
