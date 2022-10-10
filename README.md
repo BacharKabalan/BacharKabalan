@@ -17,7 +17,7 @@ My journey would have been impossible if it weren't for the incredible people th
 
 - Andre Ng, with whom it all started
 - Lorenzo Greco: a friend who already did what i am aspiring to do and always encourages to me to keep going, providing me with books, tips, networking opportunities and moral support. 
-- Dr. Yves J. Hilpisch for the on-hands training material (of which some is open access).  
+- Yves J. Hilpisch for the on-hands training material (of which some is open access).  
 - Sentdex: https://www.youtube.com/c/sentdex
 - TradeOptionsWithMe: https://www.youtube.com/c/TradeOptionsWithMe
 - QuantConnect: https://www.quantconnect.com/tutorials/tutorial-series/introduction-to-financial-python
