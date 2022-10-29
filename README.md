@@ -17,6 +17,7 @@ My journey would have been impossible if it weren't for the incredible people th
 
 - Andre Ng, with whom it all started
 - Lorenzo Greco: a friend who already did what i am aspiring to do and always encourages to me to keep going, providing me with books, tips, networking opportunities and moral support. 
+- Professor James Forjan for the best and most clear description of financial concepts https://www.youtube.com/channel/UCIPPYQzghDlcSj0Fn56HOGg
 - Yves J. Hilpisch for the on-hands training material (of which some is open access)
 - Part Time Larry: https://www.youtube.com/c/parttimelarry/playlists
 - Sentdex: https://www.youtube.com/c/sentdex
