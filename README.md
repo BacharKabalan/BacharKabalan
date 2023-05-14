@@ -4,7 +4,7 @@ Welcome to my GitHub page! My name is Bachar Kabalan and I am a crowd dynamics e
 
 * **What I do now ->** Using my knowledge in people movement and crowd dynamics, I provide expert advice on crowd planning for some of the biggest and most iconic venues in the world. I have worked on major sports events, UNESCO world heritage sites, busy train stations, museums and many more. 🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏻
 
-* **What I am dreaming of doing 💭🌟🤩 ->** I have been learning concepts and techniques in data science the past 6 years. This has been a roller coaster journey as I tried to balance work, personal relationships and personal goals, fears and passions. 
+* **What I am dreaming of doing 💭🌟🤩 ->** I have been learning concepts and techniques in data science the past 6 years. This has been a roller coaster journey as I tried to balance work, personal relationships and personal goals, fears and passions. I dream of transitioning into the data science world. Working with exceptionally smart people and doing very cool stuff with data engineering and data science.
 
 My journey would have been impossible if it weren't for the incredible people that have shared their knowledge and made it available to everyone 🙏🙏🙏. This is my humble attempt to emulate their behaviour and help other travelers on these roads. I would specifically like to mention the following people: 
 
