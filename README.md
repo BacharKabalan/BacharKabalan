@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! My name is Bachar Kabalan and I am a crowd dynamics expert and consultant. You can call me Bash or even Sponge Bash. This because i love learning and absorbing new concepts and ideas. 
 
-## What I do now -> Using my knowledge in people movement and crowd dynamics, I provide expert advice on crowd planning for some of the biggest and most iconic venues in the world. I have worked on major sports events, UNESCO world heritage sites, busy train stations, museums and many more. 
+**What I do now** -> Using my knowledge in people movement and crowd dynamics, I provide expert advice on crowd planning for some of the biggest and most iconic venues in the world. I have worked on major sports events, UNESCO world heritage sites, busy train stations, museums and many more. 
 
 What I am dreaming of doing -> I have been learning concepts and techniques in data science the past 6 years. This has been a roller coaster journey as I tried to balance work, personal relationships and personal goals, fears and passions. 
 
