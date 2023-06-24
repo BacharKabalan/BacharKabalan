@@ -10,9 +10,9 @@ My journey would have been impossible if it weren't for the incredible people th
 
 - **Andre Ng**, with whom it all started. 🧙
 - **Lorenzo Greco**: a friend who already did what I am aspiring to do and always encourages to me to keep going, providing me with books, tips, networking opportunities and moral support. 🤗❤️
-- **PyData meetups** where I found out about Founders and Coders. Also one of the presentations were around building cheap robots and programming them with AI models that can identify the best conditions to grow stems cells. EXTREMLEY INTERESTING!! 👨‍🔬👨‍🔬
+- **PyData meetups** where I found out about Founders and Coders. Also one of the presentations was around building cheap robots and programming them with AI models that can identify the best conditions to grow stems cells. EXTREMLEY INTERESTING!! 👨‍🔬👨‍🔬
 -  **Amazon meetup** where scientists from stability.ai and hugging face were presenting. You could feel the level of intelligence and innovation in the room! 🚀🚀🚀🚀
--  **London Analytics meetup** where i find out about Otta recruitment website. Once of the attendees also advised me to focus on Data Engineering rather than DeepLearning as it offers an 'easier' access to the sector. ❤️
+-  **London Analytics meetup** where i find out about Otta recruitment website. One of the attendees also advised me to focus on Data Engineering rather than DeepLearning as it offers an 'easier' access to the sector. ❤️
 -  **UCL meetup** where I learned about the models Google is developing to forecast weather and model fluid dynamics. Again, intelligence was off the roof!! 🚀🚀🚀🚀
 
 Good luck to everyone on a similar journey and please do reach out if you need any futher information, support or just to have a chat and share experiences. 
